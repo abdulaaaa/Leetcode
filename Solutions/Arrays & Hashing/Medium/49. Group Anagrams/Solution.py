@@ -33,19 +33,21 @@ class Solution:
 
 
 
-# Time Complexity: O(n) - (Same as above)
+# Time Complexity: O(m * n) - m is the amount of word and n is amount of
+# characters in each word
 
-# Space Complexity: O(n) - (Same as above)
+# Space Complexity: O(m * n) - m is the amount of word and n is amount of
+# characters in each word
 
 # NeetCode Solution:
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        prevMap = {} # val : index
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        res = defaultdict(list) # mapping charCount to list of Anagrams
 
-        for i,n in enumerate(nums):
-            diff = target - n
+        for s in strs:
+            count = [0] * 26 # a ... z
 
-            if diff in prevMap:
-                return [prevMap[diff],i]
-            prevMap[n] = i
-        return
+            for c in s:
+                count[ord(c) - ord("a")] += 1
+            res[tuple(count)].append(s)
+        return res.values()
