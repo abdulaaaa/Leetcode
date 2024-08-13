@@ -6,3 +6,4 @@ I will be posting my Leetcode Solutions Here
 
 - Contains Duplicate August 12, 2024
 - Valid Anagram August 12, 2024
+- Two Sum August 13, 2024
