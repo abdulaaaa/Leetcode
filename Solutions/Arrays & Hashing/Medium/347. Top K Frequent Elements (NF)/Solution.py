@@ -29,3 +29,34 @@ class Solution:
 # all the values which then I would sort and return the largest value's key k
 # amount of times, the problem is this would be O(n^2) time which is slower than
 # the expected O(n logn)
+
+
+# Time Complexity: O(n) - we loop through the given list in linear time
+
+# Space Complexity: O(n) - we store the values in a hashmap and list in linear
+# manner.
+
+# NeetCode Solution:
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        # neetcode solution using bucketsort
+        count = {}
+        freq = [[] for i in range (len(nums) + 1)]
+
+        # creates a hashmap with value : amount
+        for n in nums:
+            count[n] = 1 + count.get(n,0)
+
+        # freq is a list that stores other list.
+        # this uses a bucketsort method since the amount is basically the key
+        # and the values in the list are the ones with the amount.
+        for n, c in count.items():
+            freq[c].append(n)
+        res = []
+
+        # loop backwards through freq and add that to res until we get k elements
+        for i in range(len(freq) - 1, 0, -1):
+            for n in freq[i]:
+                res.append(n)
+                if len(res) == k:
+                    return res
