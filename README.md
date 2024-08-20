@@ -1,4 +1,4 @@
-# Leetcode (6 Questions)
+# Leetcode (7 Questions)
 
 I will be posting my Leetcode Solutions Here
 
