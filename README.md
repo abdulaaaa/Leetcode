@@ -10,3 +10,4 @@ I will be posting my Leetcode Solutions Here
 - Group Anagrams August 13, 2024
 - Top K Frequent Elements August 18, 2024
 - Product of Array Except Self August 19, 2024
+- Longest Consecutive Sequence August 20, 2024
