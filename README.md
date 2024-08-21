@@ -1,4 +1,4 @@
-# Leetcode (7 Questions)
+# Leetcode (8 Questions)
 
 I will be posting my Leetcode Solutions Here
 
@@ -11,3 +11,8 @@ I will be posting my Leetcode Solutions Here
 - Top K Frequent Elements August 18, 2024
 - Product of Array Except Self August 19, 2024
 - Longest Consecutive Sequence August 20, 2024
+
+
+### Two Pointers
+
+- Valid Palindrome August 21, 2024
