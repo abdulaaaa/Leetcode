@@ -16,3 +16,4 @@ I will be posting my Leetcode Solutions Here
 ### Two Pointers
 
 - Valid Palindrome August 21, 2024
+- Two Sum II - Input Array is Sorted August 22, 2024
