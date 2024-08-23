@@ -1,4 +1,4 @@
-# Leetcode (9 Questions)
+# Leetcode (10 Questions)
 
 I will be posting my Leetcode Solutions Here
 
@@ -17,3 +17,4 @@ I will be posting my Leetcode Solutions Here
 
 - Valid Palindrome August 21, 2024
 - Two Sum II - Input Array is Sorted August 22, 2024
+- 3Sum August 23, 2024
