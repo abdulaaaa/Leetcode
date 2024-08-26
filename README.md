@@ -1,4 +1,4 @@
-# Leetcode (12 Questions)
+# Leetcode (13 Questions)
 
 I will be posting my Leetcode Solutions Here
 
@@ -24,3 +24,4 @@ I will be posting my Leetcode Solutions Here
 ### Sliding Window
 
 - Best Time to Buy and Sell Stock August 25, 2024
+- Longest Substring Without Repeating Characters August 26, 2024
