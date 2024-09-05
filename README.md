@@ -1,4 +1,4 @@
-# Leetcode (13 Questions)
+# Leetcode (14 Questions)
 
 I will be posting my Leetcode Solutions Here
 
@@ -25,3 +25,4 @@ I will be posting my Leetcode Solutions Here
 
 - Best Time to Buy and Sell Stock August 25, 2024
 - Longest Substring Without Repeating Characters August 26, 2024
+- Longest Repeating Character Replacement September 5, 2024
