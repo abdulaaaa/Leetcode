@@ -1,4 +1,4 @@
-# Leetcode (15 Questions)
+# Leetcode (16 Questions)
 
 I will be posting my Leetcode Solutions Here
 
@@ -31,3 +31,4 @@ I will be posting my Leetcode Solutions Here
 ### Stack
 
 - Valid Parentheses September 6, 2024
+- Min Stack September 7, 2024
