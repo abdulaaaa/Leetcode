@@ -1,4 +1,4 @@
-# Leetcode (16 Questions)
+# Leetcode (17 Questions)
 
 I will be posting my Leetcode Solutions Here
 
@@ -32,3 +32,4 @@ I will be posting my Leetcode Solutions Here
 
 - Valid Parentheses September 6, 2024
 - Min Stack September 7, 2024
+- Daily Temperatures September 8, 2024
