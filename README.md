@@ -1,4 +1,4 @@
-# Leetcode (20 Questions)
+# Leetcode (21 Questions)
 
 I will be posting my Leetcode Solutions Here
 
@@ -40,3 +40,8 @@ I will be posting my Leetcode Solutions Here
 - Binary Search September 9, 2024
 - Find Minimum in Rotated Sorted Array September 12, 2024
 - Search in Rotated Sorted Array
+
+
+### Linked List
+
+- Reverse Linked Lsit October 2, 2024
