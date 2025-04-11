@@ -7,3 +7,5 @@
 - 5 (Longest Palindromic Substring) - 2025-04-07
 - 217 (Contains Duplicate) - 2025-04-09
 - 242 (Valid Anagram) - 2025-04-09
+- 49 (Group Anagrams) - 2025-04-10
+- 347 (Top K Frequent Elements) - 2025-04-11
